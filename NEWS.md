@@ -1,3 +1,7 @@
+# SynExtend 1.10.2
+* Minor bugfix to RF distance
+* updates gitignore for workflows
+
 # SynExtend 1.10.1
 * Memory leak bugfix
 
